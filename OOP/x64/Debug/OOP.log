@@ -1,0 +1,2 @@
+﻿  mian.cpp
+D:\Coding\C++\OOP\OOP\mian.cpp(2,10): fatal  error C1083: Cannot open include file: 'mysql/jdbc.h': No such file or directory
